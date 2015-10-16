@@ -5,10 +5,10 @@ A few samples of Aspected Oriented Programming using PostSharp (C#)
     http://doc.postsharp.net/logging. Please read that first if the code
     or functionality is not obvious.
 
-# Test Console UI:
+**Test Console UI**
 Start the AspectTestConsoleUI (mark as Startup Project)
 
-# Expected Output in Debug Window:
+**Expected Output in Debug Window**
 
     'AspectTestConsoleUI.vshost.exe' (CLR v4.0.30319: AspectTestConsoleUI.vshost.exe): Loaded '       
     
@@ -23,11 +23,11 @@ Start the AspectTestConsoleUI (mark as Startup Project)
 The lines starting with Entering: and Leaving: are the result of the LogAttribute Aspect added to the Save
 method. 
 
-# Unit Test:
+**Unit Test**
 
 Please refer to CustomerRepositoryTests.cs in CustomerRepository.Tests and run the test
 
-# Expected Output in Debug Window:
+**Expected Output in Debug Window**
 
     ------ Run test started ------
     
