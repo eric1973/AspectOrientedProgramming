@@ -6,6 +6,7 @@ A few samples of Aspected Oriented Programming using PostSharp (C#)
     or functionality is not obvious.
 
 **Test Console UI**
+
 Start the AspectTestConsoleUI (mark as Startup Project)
 
 **Expected Output in Debug Window**
